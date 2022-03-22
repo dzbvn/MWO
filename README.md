@@ -37,6 +37,6 @@ Pacjent ma możliwość zarządzania wizytą (przełożenie/odwołanie/potwierdz
 Każdy pacjent ma możliwość wglądu zarówno do swoich recept i informacji na temat przepisanych leków jak i do samych notatek i uwag od lekarza, np. na temat dawkowania poszczególnych leków.
 
 #### Podsumowanie
-System ma za zadanie usprawnienie organizacji pracy całej przychodni. Dzięki niemu ułatwiona będzie praca m.in. recepcjonisty poprzez wgląd do kalendarza wizyt i automatyzacji procesu rejestracji. Pacjenci będą mieli jasną informację na temat dostępnych terminów oraz wykonywanych usług. Wszystkie informacje są aktualizowane, system ma być niezawodny i nie powodować kolizji takich jak umówienie wizyty dla dwóch pacjentów do jednego lekarza w tym samym czasie. Zaimplementowane zostaną
+System ma za zadanie usprawnienie organizacji pracy całej przychodni. Dzięki niemu ułatwiona będzie praca m.in. recepcjonisty poprzez wgląd do kalendarza wizyt i automatyzacji procesu rejestracji. Pacjenci będą mieli jasną informację na temat dostępnych terminów oraz wykonywanych usług. Wszystkie informacje są aktualizowane, system ma być niezawodny i nie powodować kolizji takich jak umówienie wizyty dla dwóch pacjentów do jednego lekarza w tym samym czasie. Zaimplementowane zostanie również dodawanie nowych lekarzy.
 
 
