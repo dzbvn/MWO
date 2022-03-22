@@ -1,4 +1,5 @@
 
+<font size="2">
 # System obsługi przychodni “Bicie serca”
 
 Projekt polega na stworzeniu modelu systemu rezerwacji dla przychodni “Bicie serca” znajdującej się w Krakowie na ulicy Nawojki 267.
@@ -39,4 +40,4 @@ Każdy pacjent ma możliwość wglądu zarówno do swoich recept i informacji na
 #### Podsumowanie
 System ma za zadanie usprawnienie organizacji pracy całej przychodni. Dzięki niemu ułatwiona będzie praca m.in. recepcjonisty poprzez wgląd do kalendarza wizyt i automatyzacji procesu rejestracji. Pacjenci będą mieli jasną informację na temat dostępnych terminów oraz wykonywanych usług. Wszystkie informacje są aktualizowane, system ma być niezawodny i nie powodować kolizji takich jak umówienie wizyty dla dwóch pacjentów do jednego lekarza w tym samym czasie. Zaimplementowane zostanie również dodawanie nowych lekarzy.
 
-
+</font>
